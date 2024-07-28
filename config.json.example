@@ -11,5 +11,5 @@
         "maxLength": 2000,
         "ttl": 60000
     },
-    "VOICEVOXUrl": "https://tokyo-voice-api.example.com/v1/coeiroink"
+    "COEIROINKUrl": "https://tokyo-voice-api.example.com/v1/coeiroink"
 }
