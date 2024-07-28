@@ -1,0 +1,2 @@
+# COEIROINK-Synthesis
+COEIROINKをGETで利用できるようにしたラッパーAPI
