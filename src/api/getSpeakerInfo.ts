@@ -1,5 +1,5 @@
 import Config from "@/config/config";
-import { SpeakerInfo } from "@/types/response";
+import { SpeakerInfo } from "@/types/speakers";
 import logger from "@/utils/logger";
 
 export default async function getSpeakerInfo(
